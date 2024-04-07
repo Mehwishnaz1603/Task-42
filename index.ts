@@ -9,6 +9,6 @@ function make_great() {
     magician_name.splice(3, 0, "The Great")
     console.log(magician_name)
 }
-make_great()
+make_great() 
 
 
